@@ -1,0 +1,15 @@
+Package: com.isteveo.stocker13
+Name: Stocker13
+Version: 0.3.0b
+Architecture: iphoneos-arm
+Description: Simple & mostly stock looking. Some production icons are ugly, don’t fit the pallet, or just don’t sit well within the general symmetry of iOS. I aim to fix this with Stocker13! DISCLAIMER: This is made by me, for me, with no intent to redistribute.
+Maintainer: iSteve-O
+Author: iSteve-O
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.isteveo.stocker13~0.3.0b.deb
+Size: 151816
+MD5sum: a7b881924e9c0947bf85802109e9849f
+SHA1: 8df2a67641e3daa6ca238ba6dbd0401bcd9118be
+SHA256: 3f055aff326ffe1246654e9abcb009d8ba8b5158c6c9d4c162c910b64e2bcf4a
+
