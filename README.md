@@ -1,2 +1,2 @@
 # isteveo.github.io
-iSteve-O's Private Cydia Repository
+iSteve-O's Public Cydia Repository
