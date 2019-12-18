@@ -1,0 +1,21 @@
+#!/bin/bash
+mv /System/Library/PreferenceBundles/ScheduleSettings.bundle /System/Library/PreferenceBundles/tmp/Sched
+mv /System/Library/PreferenceBundles/AccountSettingsUI.bundle/en.lproj /System/Library/PreferenceBundles/tmp/Acct
+mv /System/Library/PreferenceBundles/tmp/Sched.bak /System/Library/PreferenceBundles/ScheduleSettings.bundle
+mv /System/Library/PreferenceBundles/tmp/Acct.bak /System/Library/PreferenceBundles/AccountSettingsUI.bundle/en.lproj
+
+cat - <<EOS
+------------------------------------------
+          Removing PushMod64
+------------------------------------------
+
+Thanks for using PushMod64! -iSteve-O
+
+Twitter: @iSteve_O
+
+Removing Modified Push Settings...
+Restoring Original Push Settings...
+
+Complete!
+
+EOS

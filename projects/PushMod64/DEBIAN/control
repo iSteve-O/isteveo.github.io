@@ -1,0 +1,16 @@
+Package: com.isteveo.pushmod64
+Section: System
+Maintainer: iSteve-O <isteveo.ipa@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.1
+Pre-Depends: firmware (>=11.0)
+Name: PushMod64 (iOS 11+)
+Author: iSteve-O <isteveo.ipa@gmail.com>
+Description: 3, 5, & 10min fetch intervals!
+ PushMod64 gives you the additional options of choosing 3, 5 & 10 minute email fetch intervals, in addition to the stock iOS settings of 15, 30 & 60 minutes.
+ The tweak uses minimal battery, even on the 3 minute setting, which basically turns POP/IMAP email accounts into push, for all (most) intents & purposes!
+ This tweak was made specifically for iPhone X on iOS 13.3, but should work on all versions of iOS from 3.0 to current.
+ I am not responsible for any issues with iOS versions under 13, but this package does backup and replace the stock files, so it should be fine.
+Tag: purpose::daemon
+Replaces: me.okd.pushmod
+
